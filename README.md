@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @lucasmancini
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Symfony, NodeJs
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently works with PHP, Symfony, DDD, Hexagonal Arquitecture, NodeJs
 
 <!---
 lucasmancini/lucasmancini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
